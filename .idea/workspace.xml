@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d34eba23-2876-45c9-923f-e9d75189a5b5" name="Changes" comment="Caching Layer , pagination" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b843fb96b3b2e49924bb7329f054e7e7f9e9c7c1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2YAL4bCxZpOjgPEHZXZZSClNyt1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/vodafone/spring/batch/controller" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.vodafone.spring.batch.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\edafa\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\vodafone\spring\batch\controller" />
+      <recent name="D:\edafa\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\vodafone\spring\batch\ImplService" />
+      <recent name="D:\edafa\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\vodafone\spring\batch\service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBatchExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-batch-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vodafone.spring.batch.SpringBatchExampleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d34eba23-2876-45c9-923f-e9d75189a5b5" name="Changes" comment="" />
+      <created>1699963247838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699963247838</updated>
+      <workItem from="1699963250320" duration="1280000" />
+      <workItem from="1699964604603" duration="121000" />
+      <workItem from="1699964979522" duration="1638000" />
+      <workItem from="1699966658553" duration="11306000" />
+      <workItem from="1699978985172" duration="605000" />
+      <workItem from="1700034313192" duration="8239000" />
+      <workItem from="1700042682118" duration="860000" />
+      <workItem from="1700044306641" duration="13186000" />
+      <workItem from="1700129444853" duration="12905000" />
+      <workItem from="1700383391746" duration="7356000" />
+      <workItem from="1700466190078" duration="13676000" />
+      <workItem from="1700644891113" duration="18278000" />
+      <workItem from="1700668912692" duration="11251000" />
+      <workItem from="1700725783907" duration="5687000" />
+      <workItem from="1700985772139" duration="1389000" />
+      <workItem from="1701079931167" duration="2975000" />
+      <workItem from="1701154939205" duration="5213000" />
+      <workItem from="1701167189125" duration="1907000" />
+      <workItem from="1701244035168" duration="3772000" />
+      <workItem from="1701681093126" duration="703000" />
+      <workItem from="1701685410641" duration="521000" />
+      <workItem from="1702803822794" duration="2745000" />
+      <workItem from="1702814805667" duration="1581000" />
+    </task>
+    <task id="LOCAL-00001" summary="File uploading and handle user,vendor managment">
+      <created>1700040603686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700040603686</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Caching Layer , pagination">
+      <created>1702812945579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702812945579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="e78387a8-c83f-4ca9-8846-ae118a0c18ae">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File uploading and handle user,vendor managment" />
+    <MESSAGE value="Caching Layer , pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caching Layer , pagination" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+
+v
+java:S11922"`Define a constant instead of duplicating this literal "There is No Vendor with this id" 3 times.(ñ“äÍ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÿå›ıÿÿÿÿ
+K
+java:S3416"0Update this logger to use "VendorService.class".(©½ãùÿÿÿÿ
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¦ ÕÀ1

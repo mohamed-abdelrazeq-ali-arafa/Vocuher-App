@@ -1,0 +1,35 @@
+
+K
+java:S3740•"/Provide the parametrized type for this generic.(Âºìÿúÿÿÿÿ
+w	java:S1164"]Rename this field "IVoucherRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×°îùÿÿÿÿ
+v	java:S1166"\Rename this field "VoucherItemWriter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¥Ú—şÿÿÿÿ
+g
+java:S33056"LInject this field value directly into "step1", the only method that uses it.(ì¥Ú—şÿÿÿÿ
+h
+java:S33050"MInject this field value directly into "runJob", the only method that uses it.(éõ¸²øÿÿÿÿ
+h
+java:S33054"MInject this field value directly into "writer", the only method that uses it.(Â×°îùÿÿÿÿ
+b
+java:S33052"LInject this field value directly into "step1", the only method that uses it.(Êµ¼Û
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ü¥‚€8ºÏ”»¿1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ìÊÚáşÿÿÿÿ8»Ï”»¿1
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8êÌ½¾¿1
+o
+java:S1128"RRemove this unused import 'org.springframework.core.task.SimpleAsyncTaskExecutor'.(¬·âì8êÌ½¾¿1
+i
+java:S1128"GRemove this unused import 'org.springframework.core.task.TaskExecutor'.(ÆîûÆûÿÿÿÿ8êÌ½¾¿1
+r
+java:S1128"PRemove this unused import 'org.springframework.scheduling.annotation.Scheduled'.(‚¡®Üûÿÿÿÿ8ëÌ½¾¿1
+F
+java:S1128!")Remove this unused import 'java.io.File'.(†Ğ¥Å8ëÌ½¾¿1
+R
+java:S1128""0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ëÌ½¾¿1
+W
+java:S1128#":Remove this unused import 'java.nio.file.FileVisitResult'.(ğ‘Â¹8ìÌ½¾¿1
+M
+java:S1128$"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ìÌ½¾¿1
+Y
+java:S1128&"<Remove this unused import 'java.nio.file.SimpleFileVisitor'.(¹ĞïÍ8ìÌ½¾¿1
+j
+java:S1128'"HRemove this unused import 'java.nio.file.attribute.BasicFileAttributes'.(“ããÿÿÿÿÿ8ìÌ½¾¿1
